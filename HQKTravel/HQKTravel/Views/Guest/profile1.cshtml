@@ -1,0 +1,107 @@
+﻿@model HQKTravel.Models.Guest_with_Account
+
+@{
+    ViewBag.Title = "profile1";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>profile1</h2>
+
+<div>
+    <h4>Guest_with_Account</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.user_name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.user_name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.pass_word)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.pass_word)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.fullName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.fullName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Phone)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Phone)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Birthday)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Birthday)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Address)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Address)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Sex)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Sex)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Image)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Image)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Date_Create)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Date_Create)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Date_Update)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Date_Update)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.id_guest_with_account }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

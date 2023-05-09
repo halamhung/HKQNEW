@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11.25, 31.875" name="dbTravelTour">
+  <DataContextMoniker Name="/dbTravelTourDataContext" />
+  <nestedChildShapes>
+    <classShape Id="31396fbb-5a43-4beb-8390-485621e3143a" absoluteBounds="6.25, 2, 2, 2.5401025390625005">
+      <DataClassMoniker Name="/dbTravelTourDataContext/Bill" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0ed0304e-e8fc-49d2-b32f-ae5b4b2be40e" absoluteBounds="6.265, 2.46, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ec6b82a4-f711-429d-bcfb-f161db6f8b96" absoluteBounds="6.75, 5.75, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/dbTravelTourDataContext/admin" />
+      <nestedChildShapes>
+        <elementListCompartment Id="abe36293-c85d-4d2d-af56-1100fbb5a431" absoluteBounds="6.765, 6.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1e6d63c2-d5a7-4394-a32d-5e2ac2f6434d" absoluteBounds="3.5, 21.625, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/dbTravelTourDataContext/Booking_Tour" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8edd38dc-f796-4d1a-aa46-15a81785adb8" absoluteBounds="3.515, 22.085, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0a44b1c8-ff52-454b-ace5-9d5f68755b1b" absoluteBounds="3.5, 18.25, 2, 1.3862939453125023">
+      <DataClassMoniker Name="/dbTravelTourDataContext/BookingFlightTour" />
+      <nestedChildShapes>
+        <elementListCompartment Id="df7a7b98-b1b7-46b4-8d7f-9cb6cc82fdb1" absoluteBounds="3.515, 18.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="fdf2208c-d7d5-4133-a5cf-73f9b5e0b49a" absoluteBounds="3.5, 1, 2, 1.7708968098958329">
+      <DataClassMoniker Name="/dbTravelTourDataContext/BookingHotelTour" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3780ac74-95a0-40fa-a7e9-5879792c18fa" absoluteBounds="3.515, 1.46, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1288a78a-3188-4ab9-a108-3fb5df9a5ffc" absoluteBounds="3.5, 4.25, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/dbTravelTourDataContext/BookingIndividual" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e22bbcd1-91ce-450e-aaee-4b1e76c1f7ed" absoluteBounds="3.515, 4.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ee6ca4f1-f908-4c21-8e06-181722ce2b4a" absoluteBounds="1.5, 14.75, 2, 1.5785953776041648">
+      <DataClassMoniker Name="/dbTravelTourDataContext/Destination" />
+      <nestedChildShapes>
+        <elementListCompartment Id="38ce0dc9-d237-470e-ac9d-0a07d654a084" absoluteBounds="1.5150000000000001, 15.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="258eb5a7-9cc1-4a5c-b3fc-5203d1a8a8ee" absoluteBounds="6.25, 22, 2, 1.3862939453125023">
+      <DataClassMoniker Name="/dbTravelTourDataContext/Detail_Service" />
+      <nestedChildShapes>
+        <elementListCompartment Id="344fd846-2462-4420-a6a5-f0e78f934f75" absoluteBounds="6.265, 22.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c17d7d12-56ad-40ff-a732-c1fc27bcd119" absoluteBounds="6.25, 14.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/dbTravelTourDataContext/Detail_Tour" />
+      <nestedChildShapes>
+        <elementListCompartment Id="acc6f575-e925-4aa3-9294-af36421ef74d" absoluteBounds="6.265, 15.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b4c064c7-360a-455c-bbd4-c85508525ed2" absoluteBounds="0.75, 17.375, 2, 2.9247054036458309">
+      <DataClassMoniker Name="/dbTravelTourDataContext/Flight" />
+      <nestedChildShapes>
+        <elementListCompartment Id="edf44177-941f-4fbf-a964-47109df402a4" absoluteBounds="0.765, 17.835, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="cfec6dac-d56c-42a3-9828-278e83c866c1" absoluteBounds="0.75, 21.125, 2, 3.1170068359375023">
+      <DataClassMoniker Name="/dbTravelTourDataContext/Guest_with_Account" />
+      <nestedChildShapes>
+        <elementListCompartment Id="239dd224-3b6f-40b5-9a9a-48c9b26e1cf7" absoluteBounds="0.765, 21.585, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="89179071-e96b-4a64-b2c6-579e05be561c" absoluteBounds="9, 2.5, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/dbTravelTourDataContext/HISTORY_BILL" />
+      <nestedChildShapes>
+        <elementListCompartment Id="aacc97c9-beff-46f8-9dd3-b9908859ea40" absoluteBounds="9.015, 2.96, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9d94c4b1-56bc-445e-b2c7-19cfba845132" absoluteBounds="0.75, 3.875, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/dbTravelTourDataContext/Hotel" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8805a84f-0427-436f-a73f-b47470faa10e" absoluteBounds="0.765, 4.335, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="90a656c7-a8d0-469e-9d7d-64c943e25f34" absoluteBounds="3.5, 29.625, 2, 1.9631982421875023">
+      <DataClassMoniker Name="/dbTravelTourDataContext/Service" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3d336b8f-f2b4-4b49-92f6-98fe0117b477" absoluteBounds="3.515, 30.085, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ba924138-bb19-480f-b2bc-d0aac043d4b2" absoluteBounds="3.5, 8.625, 2, 1.9631982421874987">
+      <DataClassMoniker Name="/dbTravelTourDataContext/Room" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4430a2bc-6bc1-45be-8d4a-a775fa4a1278" absoluteBounds="3.515, 9.085, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="fe403339-92b3-4447-b074-d6dbc69f8483" absoluteBounds="3.5, 25, 2, 3.3093082682291666">
+      <DataClassMoniker Name="/dbTravelTourDataContext/Staff" />
+      <nestedChildShapes>
+        <elementListCompartment Id="30dadf3a-edd5-428e-b2c0-e1a31076ba27" absoluteBounds="3.515, 25.46, 1.9700000000000002, 2.7493082682291665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5f764177-fec6-433b-ac2a-a28d035d8de9" absoluteBounds="0.75, 8, 2, 2.9247054036458318">
+      <DataClassMoniker Name="/dbTravelTourDataContext/Tour" />
+      <nestedChildShapes>
+        <elementListCompartment Id="763ef1bf-8216-43d7-bce3-7887b0846bfc" absoluteBounds="0.765, 8.46, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7548bf52-419f-4b21-8522-64084ef6be89" absoluteBounds="1.5, 12.625, 2, 1.3862939453124987">
+      <DataClassMoniker Name="/dbTravelTourDataContext/Tour_Type" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b624f8dc-ca85-42a6-9419-75a586ee55d6" absoluteBounds="1.5150000000000001, 13.085, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.46769230769231 : 21.625); (5.875 : 21.2176923076923); (5.875 : 3.27005126953125); (6.07291666666667 : 3.27005126953125 : JumpStart); (6.23958333333333 : 3.27005126953125 : JumpEnd); (6.25 : 3.27005126953125)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbTravelTourDataContext/Booking_Tour/Booking_Tour_Bill" />
+      <nodes>
+        <classShapeMoniker Id="1e6d63c2-d5a7-4394-a32d-5e2ac2f6434d" />
+        <classShapeMoniker Id="31396fbb-5a43-4beb-8390-485621e3143a" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 18.3118490375601); (5.81607443490112 : 17.995774602659 : JumpStart); (5.99642556509888 : 17.8154234724612 : JumpEnd); (6.0625 : 17.7493490375601); (6.0625 : 3.93632890429688); (6.07291666666667 : 3.93632890429687 : JumpStart); (6.23958333333333 : 3.93632890429688 : JumpEnd); (6.25 : 3.93632890429688)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbTravelTourDataContext/BookingFlightTour/BookingFlightTour_Bill" />
+      <nodes>
+        <classShapeMoniker Id="0a44b1c8-ff52-454b-ace5-9d5f68755b1b" />
+        <classShapeMoniker Id="31396fbb-5a43-4beb-8390-485621e3143a" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 2.38544840494792); (6.25 : 2.38544840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbTravelTourDataContext/BookingHotelTour/BookingHotelTour_Bill" />
+      <nodes>
+        <classShapeMoniker Id="fdf2208c-d7d5-4133-a5cf-73f9b5e0b49a" />
+        <classShapeMoniker Id="31396fbb-5a43-4beb-8390-485621e3143a" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 5.0881987421875); (5.79166666666667 : 5.0881987421875 : JumpStart); (5.95833333333333 : 5.0881987421875 : JumpEnd); (5.97916666666667 : 5.0881987421875 : JumpStart); (6.23958333333333 : 5.0881987421875 : JumpEnd); (7.25 : 5.0881987421875); (7.25 : 4.5401025390625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbTravelTourDataContext/BookingIndividual/BookingIndividual_Bill" />
+      <nodes>
+        <classShapeMoniker Id="1288a78a-3188-4ab9-a108-3fb5df9a5ffc" />
+        <classShapeMoniker Id="31396fbb-5a43-4beb-8390-485621e3143a" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 22.6931469726563); (6.07291666666667 : 22.6931469726563 : JumpStart); (6.23958333333333 : 22.6931469726563 : JumpEnd); (6.25 : 22.6931469726563)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbTravelTourDataContext/Booking_Tour/Booking_Tour_Detail_Service" />
+      <nodes>
+        <classShapeMoniker Id="1e6d63c2-d5a7-4394-a32d-5e2ac2f6434d" />
+        <classShapeMoniker Id="258eb5a7-9cc1-4a5c-b3fc-5203d1a8a8ee" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 21.7203836153846); (5.9375 : 21.2828836153846); (5.9375 : 15.8277498372396); (5.97916666666667 : 15.8277498372396 : JumpStart); (6.23958333333333 : 15.8277498372396 : JumpEnd); (6.25 : 15.8277498372396)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbTravelTourDataContext/Booking_Tour/Booking_Tour_Detail_Tour" />
+      <nodes>
+        <classShapeMoniker Id="1e6d63c2-d5a7-4394-a32d-5e2ac2f6434d" />
+        <classShapeMoniker Id="c17d7d12-56ad-40ff-a732-c1fc27bcd119" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 18.9431469726563); (3.5 : 18.9431469726563)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbTravelTourDataContext/Flight/Flight_BookingFlightTour" />
+      <nodes>
+        <classShapeMoniker Id="b4c064c7-360a-455c-bbd4-c85508525ed2" />
+        <classShapeMoniker Id="0a44b1c8-ff52-454b-ace5-9d5f68755b1b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.75 : 17.375); (1.75 : 16.5785953776042); (3.75 : 16.5785953776042); (3.75 : 11.1747054036458); (3 : 11.1747054036458); (3 : 4.94314697265625); (3.22916666666667 : 4.94314697265625 : JumpStart); (3.39583333333333 : 4.94314697265625 : JumpEnd); (3.5 : 4.94314697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbTravelTourDataContext/Flight/Flight_BookingIndividual" />
+      <nodes>
+        <classShapeMoniker Id="b4c064c7-360a-455c-bbd4-c85508525ed2" />
+        <classShapeMoniker Id="1288a78a-3188-4ab9-a108-3fb5df9a5ffc" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 22.7027498372396); (3.5 : 22.7027498372396)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbTravelTourDataContext/Guest_with_Account/Guest_with_Account_Booking_Tour" />
+      <nodes>
+        <classShapeMoniker Id="cfec6dac-d56c-42a3-9828-278e83c866c1" />
+        <classShapeMoniker Id="1e6d63c2-d5a7-4394-a32d-5e2ac2f6434d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 3.28929768880208); (9 : 3.28929768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbTravelTourDataContext/Bill/Bill_HISTORY_BILL" />
+      <nodes>
+        <classShapeMoniker Id="31396fbb-5a43-4beb-8390-485621e3143a" />
+        <classShapeMoniker Id="89179071-e96b-4a64-b2c6-579e05be561c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.75 : 3.875); (1.75 : 1.88544840494792); (3.5 : 1.88544840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbTravelTourDataContext/Hotel/Hotel_BookingHotelTour" />
+      <nodes>
+        <classShapeMoniker Id="9d94c4b1-56bc-445e-b2c7-19cfba845132" />
+        <classShapeMoniker Id="fdf2208c-d7d5-4133-a5cf-73f9b5e0b49a" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 4.53407348632813); (3.22916666666667 : 4.53407348632812 : JumpStart); (3.39583333333333 : 4.53407348632813 : JumpEnd); (3.5 : 4.53407348632813)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbTravelTourDataContext/Hotel/Hotel_BookingIndividual" />
+      <nodes>
+        <classShapeMoniker Id="9d94c4b1-56bc-445e-b2c7-19cfba845132" />
+        <classShapeMoniker Id="1288a78a-3188-4ab9-a108-3fb5df9a5ffc" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 30.6065991210938); (7.25 : 30.6065991210938); (7.25 : 23.3862939453125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbTravelTourDataContext/Service/Service_Detail_Service" />
+      <nodes>
+        <classShapeMoniker Id="90a656c7-a8d0-469e-9d7d-64c943e25f34" />
+        <classShapeMoniker Id="258eb5a7-9cc1-4a5c-b3fc-5203d1a8a8ee" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 5.83668708969351); (2.94107443490112 : 6.02776152459463 : JumpStart); (3.05892556509888 : 6.14561265479239 : JumpEnd); (3.125 : 6.21168708969351); (3.125 : 9.60659912109375); (3.5 : 9.60659912109375)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbTravelTourDataContext/Hotel/Hotel_Room" />
+      <nodes>
+        <classShapeMoniker Id="9d94c4b1-56bc-445e-b2c7-19cfba845132" />
+        <classShapeMoniker Id="ba924138-bb19-480f-b2bc-d0aac043d4b2" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 25.0307682307692); (6.15625 : 24.3745182307692); (6.15625 : 2.82774983723958); (6.25 : 2.82774983723958)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbTravelTourDataContext/Staff/Staff_Bill" />
+      <nodes>
+        <classShapeMoniker Id="fe403339-92b3-4447-b074-d6dbc69f8483" />
+        <classShapeMoniker Id="31396fbb-5a43-4beb-8390-485621e3143a" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 10.9247054036458); (3.125 : 11.2997054036458); (3.66666666666667 : 11.2997054036458 : JumpStart); (3.83333333333333 : 11.2997054036458 : JumpEnd); (4.6249995 : 11.2997054036458); (4.6249995 : 18.25)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbTravelTourDataContext/Tour/Tour_BookingFlightTour" />
+      <nodes>
+        <classShapeMoniker Id="5f764177-fec6-433b-ac2a-a28d035d8de9" />
+        <classShapeMoniker Id="0a44b1c8-ff52-454b-ace5-9d5f68755b1b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 8.06307592307692); (2.94107443490112 : 7.8720014881758 : JumpStart); (3.05892556509888 : 7.75415035797804 : JumpEnd); (3.06607443490112 : 7.7470014881758 : JumpStart); (3.18392556509888 : 7.62915035797804 : JumpEnd); (3.3125 : 7.50057592307692); (3.3125 : 2.35942460742187); (3.5 : 2.35942460742187)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbTravelTourDataContext/Tour/Tour_BookingHotelTour" />
+      <nodes>
+        <classShapeMoniker Id="5f764177-fec6-433b-ac2a-a28d035d8de9" />
+        <classShapeMoniker Id="fdf2208c-d7d5-4133-a5cf-73f9b5e0b49a" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.09375 : 10.9247054036458); (1.09375 : 16.7420475260417); (1.66666666666667 : 16.7420475260417 : JumpStart); (1.83333333333333 : 16.7420475260417 : JumpEnd); (4.54166616666667 : 16.7420475260417 : JumpStart); (4.70833283333333 : 16.7420475260417 : JumpEnd); (5.79166666666667 : 16.7420475260417 : JumpStart); (6.23958333333333 : 16.7420475260417 : JumpEnd); (6.25 : 16.7420475260417)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbTravelTourDataContext/Tour/Tour_Detail_Tour" />
+      <nodes>
+        <classShapeMoniker Id="5f764177-fec6-433b-ac2a-a28d035d8de9" />
+        <classShapeMoniker Id="c17d7d12-56ad-40ff-a732-c1fc27bcd119" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.5 : 15.5392976888021); (1.17708333333333 : 15.5392976888021 : JumpStart); (1.01041666666667 : 15.5392976888021 : JumpEnd); (0.8906225 : 15.5392976888021); (0.8906225 : 10.9247054036458)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbTravelTourDataContext/Destination/Destination_Tour" />
+      <nodes>
+        <classShapeMoniker Id="ee6ca4f1-f908-4c21-8e06-181722ce2b4a" />
+        <classShapeMoniker Id="5f764177-fec6-433b-ac2a-a28d035d8de9" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.0937475 : 12.625); (2.0937475 : 10.9247054036458)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbTravelTourDataContext/Tour_Type/Tour_Type_Tour" />
+      <nodes>
+        <classShapeMoniker Id="7548bf52-419f-4b21-8522-64084ef6be89" />
+        <classShapeMoniker Id="5f764177-fec6-433b-ac2a-a28d035d8de9" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
